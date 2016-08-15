@@ -2,13 +2,12 @@ body {
 	width: 100%;
 	max-width: 1024px;
 	margin: 0 auto;
-	background-color: #999;
+	background-color: #FAEBD7;
 	font-size: 62.5%;
 }
-article,
-main,
+
 footer {
-	background-color: #ddd;
+	background-color: #F0FFFF;
 	font-size: 1.6em;
 }
 
