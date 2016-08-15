@@ -3,7 +3,7 @@ body {
 	max-width: 1024px;
 	margin: 0 auto;
 	background-color: #FAEBD7;
-	font-size: 62.5%;
+	font-size: 1.8em;
 }
 
 footer {
@@ -29,5 +29,5 @@ img {
 }
 
 body {
-		font-size: 50%;
+		font-size: 100%;
 	}
