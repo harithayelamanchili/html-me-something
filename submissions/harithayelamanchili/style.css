@@ -22,11 +22,11 @@ h1 {
 p
 {
 	padding: 1.25em;
-  color: blue;
+  	color: blue;
 }
 img {
-	width: 100%;
-	max-width: 100%;
+	width: 50%;
+	max-width: 50%;
 }
 
 body {
